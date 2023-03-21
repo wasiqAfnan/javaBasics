@@ -1,4 +1,3 @@
-package oops.src;
 
 // class
 class MyClass{

@@ -1,4 +1,3 @@
-package oops.src;
 class NegativeRadiusException extends Exception{
     @Override
     public String toString() {

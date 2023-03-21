@@ -1,4 +1,3 @@
-package oops.src;
 import java.util.Random;
 import java.util.Scanner;
 

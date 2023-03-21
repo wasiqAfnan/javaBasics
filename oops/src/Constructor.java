@@ -1,4 +1,3 @@
-package oops.src;
 class MyClass{
     public int real;
     public int imaginary;

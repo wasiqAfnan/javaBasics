@@ -1,4 +1,3 @@
-package oops.src;
 class Base{
     private int id;
     public void setId(int x){

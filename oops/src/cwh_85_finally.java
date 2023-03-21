@@ -1,4 +1,3 @@
-package oops.src;
 public class cwh_85_finally {
     public static int greet(){
         try{
