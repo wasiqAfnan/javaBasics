@@ -1,4 +1,3 @@
-
 // class
 class MyClass{
     private int x;
@@ -10,7 +9,7 @@ class MyClass{
     }
 }
 
-public class classes_and_objects{
+public class oop1_classes_and_objects{
     public static void main(String[] args){
         int res;
         MyClass obj = new MyClass(); // creating object of myclass 

@@ -28,7 +28,7 @@ class MyClass{
         System.out.println(imaginary + "i");
     }
 }
-public class Constructor {
+public class oop3_Constructor {
     public static void main(String[] args) {
         MyClass obj3 = new MyClass(); // default contructor will be called
         MyClass obj1 = new MyClass(6,7); // parameterized contructor will be called
