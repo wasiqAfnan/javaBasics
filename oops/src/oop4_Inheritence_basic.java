@@ -21,7 +21,7 @@ class Derieved extends Base{
         return salary;
     }
 }
-public class Inheritence_basic {
+public class oop4_Inheritence_basic {
     public static void main(String[] args){
         Derieved obj1 = new Derieved();
         obj1.setId(1001);
