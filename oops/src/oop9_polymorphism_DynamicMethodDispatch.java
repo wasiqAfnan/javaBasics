@@ -12,7 +12,7 @@ class Smartphone extends phone {
     }
 }
 
-public class oops9_polymorphism_DynamicMethodDispatch {
+public class oop9_polymorphism_DynamicMethodDispatch {
     public static void main(String[] args) {
         // craeating object of smartphone but refernce to phone
         // a super class can take refrence of subclass, this is called Dynamic Method Dispatch or Runtime Polymorphism
